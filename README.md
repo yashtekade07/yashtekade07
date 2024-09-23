@@ -49,7 +49,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashtekade07&show_icons=true&hide_border=true&theme=gotham&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtekade07&layout=compact&theme=gotham&hide_border=true&show_icons=true" /> -->
   <div align="center">
   <p>&nbsp;
-  <img align="center" src="https://github-readme-stats-red-eight-84.vercel.app/api?username=yashtekade07&show_icons=true&locale=en&theme=gotham&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged" alt="yash's Github Stats" width="600"/> 
+  <img align="center" src="https://github.com/anuraghazra/github-readme-stats/api?username=yashtekade07&show_icons=true&locale=en&theme=gotham&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged" alt="yash's Github Stats" width="600"/> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashtekade07&theme=gotham&hide_border=true" alt="Gautam's Github Streak" width="600"/>
   </p>
 </div>
