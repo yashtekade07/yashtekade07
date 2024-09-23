@@ -50,7 +50,7 @@
   <div align="center">
   <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtekade07&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="yash's Github Stats" width="600"/> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashtekade07&theme=gotham&hide_border=true" alt="Gautam's Github Streak" width="600"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashtekade07&theme=gotham&hide_border=true" alt="Yash's Github Streak" width="600"/>
   </p>
 </div>
 <br />
