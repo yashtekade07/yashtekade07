@@ -14,9 +14,6 @@
 <a href="https://github.com/yashtekade07/yashtekade07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtekade07&htitle_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a> 
-<a href="https://github.com/yashtekade07/yashtekade07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtekade07&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yash's GitHub Stats" />
-</a>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=yashtekade07" />
 
